@@ -1,2 +1,2 @@
-# rocketbook
+# Rocketbook
 Simple reactJS feed posts 
